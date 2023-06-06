@@ -1,0 +1,58 @@
+
+body{
+    background:linear-gradient(to right ,purple,hotpink,rgba(222, 54, 138, 0.945));
+   
+}
+#heading{
+ text-align: center;
+ color:white;
+}
+.container{
+    position: absolute;
+    top: 150px;
+    left: 430px;
+    width: 680px;
+    height: 300px;
+    margin: auto;
+    background:#ffffff;
+    padding: 50px 10px;
+    border-radius: 20px;
+   
+    display: grid;
+    justify-items: center;
+}
+input{
+    width: 90px;
+    font-weight: 600;
+    color: #663399;
+   padding:20px 0;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   border-radius: 10px;
+   text-align: center;
+   border: 2px solid black;
+    
+} 
+  
+button{
+    width: 160px;
+    height: 40px;
+    font-size: 20px;
+   background-color: #663399;
+   color: #ffffff;
+   font-size: 20px;
+   border: none;
+   border-radius: 20px;
+}
+#message1{
+margin-top: 11px;
+margin-bottom: 0;
+font-weight: 600;
+font-size:large
+}
+#message2{
+    margin-top: 11px;
+    margin-bottom: 0;
+    font-weight: 600;
+    font-size:large
+    }
